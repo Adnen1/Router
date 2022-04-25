@@ -1,0 +1,16 @@
+.list{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+
+   
+}
+.imp{
+    height: 285px;
+    width: 286px;
+}
+.card{
+    padding: 0px;
+    margin: 20px;
+    
+}
